@@ -20,6 +20,7 @@ public class Ferreteria02 {
         // TODO code application logic here
         System.out.println("sos puto...");
         System.out.println("editando desde la webGitHub ");
+        System.out.println(" se sincrinizo correctamente lo q edite desde la web...gordillo sigue siendo gay..");
         
     }
     public String getNombre(){
