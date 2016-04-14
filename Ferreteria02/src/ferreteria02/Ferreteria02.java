@@ -21,7 +21,8 @@ public class Ferreteria02 {
         System.out.println("sos puto...");
         System.out.println("editando desde la webGitHub ");
         System.out.println(" se sincrinizo correctamente lo q edite desde la web...gordillo sigue siendo gay..");
-        System.out.Println(" otra prueba desde la web antes de ir a dormir...gordillo sigue siendo gay...");
+        System.out.println(" otra prueba desde la web antes de ir a dormir...gordillo sigue siendo gay...");
+        System.out.println("Corregi desde miPc el Print q escribi con p mayuscula...y gordillo todabia sigue siendo gay..me voi a dormir..mierda..");
         
     }
     public String getNombre(){
