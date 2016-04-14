@@ -21,10 +21,8 @@ public class Ferreteria02 {
         System.out.println("sos puto...");
         
     }
-    public void getNombre(){
+    public String getNombre(){
         return nombre;
     }
         
-    }
-    
 }
